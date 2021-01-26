@@ -1,0 +1,1 @@
+words = ["hi","coding","how","are","you","fun","python","books","phone","tech","nice","lovely","water","food","shelter","earth","soil","sea","mountain","gorgeous","youtube","music","sounds","taste","hear","see","touch"]
